@@ -1,4 +1,4 @@
-# Stuend Attenteiveness Detection
+# Student Attentiveness Detection
 
 ## Personal Project
 
