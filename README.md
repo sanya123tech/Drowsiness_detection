@@ -26,8 +26,8 @@ https://github.com/ghousetazeem/test1/assets/74200389/fb11bd8a-3684-49ba-bcf0-ea
 <p>
 
 - Python
-- YOLO(You only look)
-- Machine Learning Algorithms
-- Attention Detection
+- Deep learning
+- CNN(convolution neural network)
+- Open CV
 
 </p>
